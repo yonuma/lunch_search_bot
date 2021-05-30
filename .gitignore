@@ -6,4 +6,5 @@
 !/logs/README.md
 .phpunit.result.cache
 .DS_Store
+composer.lock
 /logs
